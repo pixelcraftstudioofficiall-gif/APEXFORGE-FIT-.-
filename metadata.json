@@ -1,0 +1,7 @@
+{
+  "name": "ApexForge Fitness Demo",
+  "description": "Premium dark luxury fitness center website demo for ApexForge Fitness in Nova City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
